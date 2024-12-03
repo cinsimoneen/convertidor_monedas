@@ -26,12 +26,10 @@ cálculo de conversiones de una divisa base a otra divisa destino. La aplicació
 ### 3. Entregables
 
 - **Código de la Aplicación**: Archivos que conforman el código de la aplicación: 
-  [GitHub Pages](convertidor/src/Principal.java)
-  
-  [convertidor/src/Principal.java](GeneraLog.java)
-  [convertidor/src/ConsultaApi.java](ConsultaApi.java)
-  [convertidor/src/CalcularTipoCambio.java](CalcularTipoCambio.java)
-
+  [Principal](convertidor/src/Principal.java)
+  [GeneraLog](convertidor/src/GeneraLog.java)
+  [ConsultaApi](convertidor/src/ConsultaApi.java)
+  [CalcularTipoCambio](convertidor/src/CalcularTipoCambio.java)
 
 - **Readme**: Archivo README del proyecto.[README.MD](README.MD).
 
